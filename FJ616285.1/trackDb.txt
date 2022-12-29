@@ -192,8 +192,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TowneN1N2
 longLabel WT Flavo
 shortLabel WT Flavo
 negateValues on
-color 113,35,124
-altColor 113,35,124
+color 153,58,29
+altColor 153,58,29
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
@@ -230,8 +230,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TowneN1N2
 longLabel N1 Flavo
 shortLabel N1 Flavo
 negateValues on
-color 113,35,124
-altColor 113,35,124
+color 153,58,29
+altColor 153,58,29
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
@@ -268,8 +268,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TowneN1N2
 longLabel N2 Flavo
 shortLabel N2 Flavo
 negateValues on
-color 113,35,124
-altColor 113,35,124
+color 153,58,29
+altColor 153,58,29
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
@@ -306,8 +306,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TowneN1N2
 longLabel NS2 Flavo
 shortLabel NS2 Flavo
 negateValues on
-color 113,35,124
-altColor 113,35,124
+color 153,58,29
+altColor 153,58,29
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
